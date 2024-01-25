@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-13T14:08:07-07:00
+
+====== Armorer ======
+Created Saturday 13 January 2024
+
+Each crafting class has a main and off hand tool.
+Armorers use an [[+ArmorersHammer]] and [[+Pliers]]

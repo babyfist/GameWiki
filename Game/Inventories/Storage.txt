@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-22T13:35:20-07:00
+
+====== Storage ======
+Created Monday 22 January 2024
+
+Storage can hold any item types and can be accessed via CITYS/TOWNS.

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-22T13:36:03-07:00
+
+====== ToolBox ======
+Created Monday 22 January 2024
+
+Tool Box is a tab of Weapon Box.
+Tool Box holds all Crafting and Gathering Tools.

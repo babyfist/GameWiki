@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-14T20:25:53-07:00
+
+====== a.Craft Templete ======
+Created Sunday 14 January 2024
+

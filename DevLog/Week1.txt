@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-13T12:24:41-07:00
+
+====== Week1 ======
+Learned:
+	How to create UI items
+	Connect UI to variables to updating UI elements
+	Created Gamemode Blueprints/Assets 
+	Customized 
+		Default pawn class
+		HUD
+		Player Controller
+	Created Structs
+		Abilities
+		Technical Points (HP, MP, SP, JobPoints)
+		Traits
+		Items
+		Gear
+		Weapons
+		Jobs
+		Races
+		Skills (Skill is leveling system for attack types)
+		
+Created Saturday 13 January 2024

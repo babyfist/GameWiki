@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-15T14:30:33-07:00
+
+====== a.LinkListTemplete ======
+
+[[#Game]]
+	[[Game:Abilities]]
+		+
+	[[Game:Attributes]]
+		[[Game:Attributes:MainAttributes]]
+			+
+		[[Game:Attributes:HiddenAttributes]]
+			+
+		[[Game:Attributes:TechnicalPoints]]
+			+
+	[[Game:Gear]]
+		+
+	[[Game:Items]]
+		[[Game:Items:Consumables]]
+			+
+		[[Game:Items:CraftMaterials]]
+			+
+		[[Game:Items:QuestItems]]
+			+
+	[[Game:Jobs]]
+		[[Game:Jobs:Battle]]
+			+
+		[[Game:Jobs:Craft]]
+			+
+		[[Game:Jobs:Gather]]
+			+
+	[[Game:Races]]
+		+
+	[[Game:Skills]]
+		+
+	[[Game:Traits]]
+		+
+	[[Game:World]]
+		+
+	
+		
+		
+
+
+Created Monday 15 January 2024
+

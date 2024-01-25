@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-13T14:06:12-07:00
+
+====== Botany ======
+Created Saturday 13 January 2024
+
+Each gathering class has a main and off hand tool.
+Botanist use a [[+Axe]] and a [[+Scythe]]

@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-15T12:59:13-07:00
+
+====== Week2 ======
+ToDo:
+	Create UI Prefabs for:
+
+
+
+	
+	
+		
+		
+Learned:
+	How to use Zim for Linking in the wiki
+		[[Game:Jobs:]]
+
+Created:
+	Prefabs:
+		UI items that are reuseable
+			Technical Points Bar
+			Horizontial hotbar
+		
+Created Monday 15 January 2024
+

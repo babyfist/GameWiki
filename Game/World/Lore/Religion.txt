@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-22T14:40:24-07:00
+
+====== Religion ======
+Created Monday 22 January 2024
+
+Religions by race:
+	* Bear - Worships the Gods of Order and Nature
+	* Cat - Worships the gods of Earth and Divine Magic
+	* Elf - Worships the Greater Divine Gods
+	* Human - Are not unified over all in faith. But most will deny the GOD of the Empire if questioned. 
+	* Tonberry - Worships the Gods of White and Black Magic
+
+

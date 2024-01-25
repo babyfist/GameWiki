@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-11T21:29:21-07:00
+
+====== Home ======
+Home Page for Future MMO game created by @babyfist and released by @LaughingMen. @LaughingMen is made up of @LaughingMenStudios @LaughingMenProduction @LaughingMenDevelopment @LaughingMenMarketing @LaughingMenArt @LaughingMenVideo @LaughingMen3d 
+
+====== Laughing Men Organization ======
+===== Laughing Men =====
+@LaughingMenLLC - [[+LaughingMen]]
+@LaughingMenStudios - [[Home:LaughingMen:LaughingMenStudios]]
+@LaughingMenProduction - [[Home:LaughingMen:LaughingMenProduction]]
+@LaughingMenDevelopment - [[Home:LaughingMen:LaughingMenDevelopment]]
+@LaughingMenMarketing - [[Home:LaughingMen:LaughingMenMarketing]]
+@LaughingMenArt - [[Home:LaughingMen:LaughingMenArt]]
+@LaughingMenSound - [[Home:LaughingMen:LaughingMenSound]]
+@LaughingMenVideo - [[Home:LaughingMen:LaughingMenVideo]]
+@LaughingMen3d - [[Home:LaughingMen:LaughingMen3d]]
+
+
+
+This is a passion project created by a single developer @babyfist and has been an idea for an MMO spaning many years of thought and world worlding. 
+The develop of the game began in 2024.  The planning of the world and ideas implemented within the game have been designed and developed over many years prior to 2024.  
+The goal is create a single player model and develop this into a full fleged MMO, with the end goal of releasing for PC (Standalone, Steam, Epic) and consoles (PS5, XBOX). 
+Currently the development is beging created for PC with controller support for better transition for console development. 
+
+
+Created Thursday 11 January 2024
+

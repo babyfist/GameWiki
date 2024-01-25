@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-13T14:07:00-07:00
+
+====== Skinning ======
+Created Saturday 13 January 2024
+
+Each gathering class has a main and off hand tool.
+Skinners use a [[+SkinningKnife]] and a [[+SkinningSatchel]]  (Tenative)

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-13T14:10:04-07:00
+
+====== Smelter ======
+Created Saturday 13 January 2024
+
+Each crafting class has a main and off hand tool.
+[[AdvancedCrafting]] classes use a consumable item for the off hand.
+Smelters use a [[+Crucible]] and a [[+Mold]] which is consumed on sucess or failure.

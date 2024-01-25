@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-22T13:35:52-07:00
+
+====== WeaponBox ======
+Created Monday 22 January 2024
+
+Weapon box is the main BOX inventory tab shared with Gear Box and Tool Box.
+Weapon box is a Inventory for weapons only. 
