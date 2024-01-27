@@ -5,3 +5,10 @@ Creation-Date: 2024-01-14T20:27:10-07:00
 ====== a.Item Templete ======
 Created Sunday 14 January 2024
 
+Name: 
+Type: 
+Description: 
+Stackable: 
+Consumable: 
+SellPrice: 
+BuyPrice: 

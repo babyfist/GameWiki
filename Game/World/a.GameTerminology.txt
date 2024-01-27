@@ -5,3 +5,7 @@ Creation-Date: 2024-01-22T14:46:58-07:00
 ====== a.GameTerminology ======
 Created Monday 22 January 2024
 
+centimeter
+meter
+kilometer
+

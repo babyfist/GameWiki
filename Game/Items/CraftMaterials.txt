@@ -5,3 +5,14 @@ Creation-Date: 2024-01-14T20:26:40-07:00
 ====== CraftMaterials ======
 Created Sunday 14 January 2024
 
+[[+Alchemy]]
+[[+Armorer]]
+[[+Blacksmith]]
+[[+Carpenter]]
+[[+Culinary]]
+[[+Goldsmith]]
+[[+Leatherworker]]
+[[+Weaver]]
+Advanced Crafting
+[[+Enchanter]]
+[[+Smelter]]
