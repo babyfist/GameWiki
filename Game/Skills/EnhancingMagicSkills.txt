@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-27T17:04:43-07:00
+
+====== EnhancingMagicSkills ======
+Created Saturday 27 January 2024
+
+Healing magics and other sources of heals

@@ -5,3 +5,25 @@ Creation-Date: 2024-01-11T21:32:52-07:00
 ====== Skills ======
 Created Thursday 11 January 2024
 
+[[+WeaponSkills]]
+
+[[+RangedWeaponSkills]]
+
+[[+DefensiveSkills]] 
+
+[[+MagicSkills]]
+
+	[[+SupportMagicSkills]]
+	
+	[[+ElementalMagicSkills]]
+	
+	[[+EnhancingMagicSkills]]
+	
+	[[+EnfeeblingMagicSkills]] 
+
+[[+MusicSkills]]
+
+[[+PetSkill]]
+
+
+

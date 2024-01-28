@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-01-27T17:05:15-07:00
+
+====== ElementalMagicSkills ======
+Created Saturday 27 January 2024
+
+Each element levels on its own. 
