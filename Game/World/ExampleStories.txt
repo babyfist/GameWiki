@@ -5,3 +5,14 @@ Creation-Date: 2024-01-28T10:37:46-07:00
 ====== ExampleStories ======
 Created Sunday 28 January 2024
 
+[ ] Save someone from ransom of cult. They are holding a demi-god hostage. 
+[ ] Save someone from being captured by Dragon.
+[ ] Save someone from being captured by XYZ.
+[ ] Save son/daughter of Nation.
+[ ] Save king/queen from being posioned. 
+[ ] Bring the Nations to Peace meeting.
+[ ] Stop rogue group from overthrowing Nation/King/Queen
+[ ] Find XYZ rare item and return to XYZ person. 
+[ ] Talk to XYZ person to get Secret Quest related to "FACTION"
+[ ] 
+

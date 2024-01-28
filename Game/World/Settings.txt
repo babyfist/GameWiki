@@ -5,4 +5,5 @@ Creation-Date: 2024-01-22T14:15:26-07:00
 ====== Settings ======
 Created Monday 22 January 2024
 
-The game takes place in WORLD mainly on the contentent of 
+The game takes place in WORLD mainly on the Continent of Continent1
+

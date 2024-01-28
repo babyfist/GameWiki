@@ -5,3 +5,48 @@ Creation-Date: 2024-01-14T20:28:11-07:00
 ====== a.Gear Templete ======
 Created Sunday 14 January 2024
 
+//Mandatory// 
+Name: 
+Description: 
+Level: 
+//ItemLevel:// 
+Slot: 
+Jobs: 
+Defense: 
+MagicDefense: 
+== = ==
+//Optional Number of attributes//
+AttributeBonus1: 
+AttributeBonus2:
+AttributeBonus3: 
+AttributeBonus4:
+HiddenAttributeBonus1: 
+HiddenAttributeBonus2: 
+HiddenAttributeBonus3: 
+HiddenAttributeBonus4: 
+
+//Optional Number of MeldSlots//
+MeldSlot1: 
+MeldSlot2: 
+MeldSlot3: 
+MeldSlot4: 
+MeldSlot5: 
+
+//Mandatory//
+CanMeld: 
+CanOverMeld: 
+MeldLevel: 
+Desynthable:  
+
+RepairJob: 
+RepairLevel: 
+
+BuyPrice: 
+SellPrice: 
+
+
+Gearbond: 
+
+
+FUTURE UPGRADES
+Dyeable: 
