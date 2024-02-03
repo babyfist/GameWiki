@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2024-01-13T14:35:16-07:00
-
-====== CriticalPotancyMagic ======
-Created Saturday 13 January 2024
-

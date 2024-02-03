@@ -5,3 +5,21 @@ Creation-Date: 2024-01-13T14:04:56-07:00
 ====== Rogue ======
 Created Saturday 13 January 2024
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unlocks the following Jobs.
+[[+Thief]]
+[[+Trickster]]
+[[+Pugilist]]

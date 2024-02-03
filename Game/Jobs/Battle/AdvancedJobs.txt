@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-02-03T16:27:36-07:00
+
+====== AdvancedJobs ======
+Created Saturday 03 February 2024
+
+Advanced Jobs require specific things to unlock. 
+
+Advanced Jobs unlock when you have the correct Jobs unlocked and at specific level.
+
+Unlock Requirements:

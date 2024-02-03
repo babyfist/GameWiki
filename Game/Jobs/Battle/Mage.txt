@@ -5,3 +5,19 @@ Creation-Date: 2024-01-13T14:05:01-07:00
 ====== Mage ======
 Created Saturday 13 January 2024
 
+
+
+
+
+
+
+
+
+
+
+
+Unlocks the following Jobs.
+[[+BlackMage]]
+[[+WhiteMage]]
+[[+RedMage]]
+

@@ -5,3 +5,44 @@ Creation-Date: 2024-01-14T20:25:26-07:00
 ====== a.Battle Templete ======
 Created Sunday 14 January 2024
 
+**Role**
+Tank, Heal, Damage, Support, Hybrid
+
+**Attributes**
+Attack Potency: 
+Defense Potency: 
+Vitality: 
+Strength: 
+Agility: 
+Dexterity: 
+Intellect: 
+Wisdom: 
+Luck: 
+
+**Hidden Attributes**
+Accuracy:
+Magic Accuracy:
+Physical Accuracy: 
+Ranged Accuracy:
+Magic Attack Potency: 
+Physical Attack Potency: 
+Ranged Attack Potency: 
+Magic Defense Potency: 
+Physical Defense Potency: 
+Ranged Defense Potency: 
+Critical Potency: 
+Magic Critical Potency: 
+Physical Critical Potency: 
+Ranged Critical Potency: 
+Enmity: 
+Evasion: 
+Parry: 
+Speed: 
+
+**Weapons**
+
+**Bonus**
+
+**Abilities**
+
+**Traits**
